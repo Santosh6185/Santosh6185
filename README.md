@@ -11,7 +11,7 @@ I'm passionate about creating efficient and elegant solutions to complex problem
 Let's connect and explore opportunities to collaborate  :sparkles:.
 </p>
 <p align="left">
-    <a href="https://github.com/Santosh6185">
+    <a href="https://www.linkedin.com/in/santosh-biswal-18a176231/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
         <a href="mailto:santoshbiswal048@gmail.com">
